@@ -23,7 +23,7 @@
     },
     "require": {
         "php": ">=7.1",
-        "jms/serializer": "^1.8",
+        "jms/serializer": "1.8",
         "guzzlehttp/guzzle": "^6.3"
     },
     "require-dev": {
